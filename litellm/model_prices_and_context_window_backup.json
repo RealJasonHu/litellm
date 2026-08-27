@@ -9323,6 +9323,11 @@
         "supported_output_modalities": [
             "text"
         ],
+        "supported_reasoning_efforts": [
+            "low",
+            "high",
+            "max"
+        ],
         "supports_function_calling": true,
         "supports_prompt_caching": true,
         "supports_reasoning": true,
@@ -31633,6 +31638,11 @@
         "mode": "chat",
         "output_cost_per_token": 1.5e-05,
         "source": "https://platform.kimi.ai/docs/pricing/chat-k3",
+        "supported_reasoning_efforts": [
+            "low",
+            "high",
+            "max"
+        ],
         "supports_function_calling": true,
         "supports_reasoning": true,
         "supports_response_schema": true,
@@ -36241,6 +36251,11 @@
         "mode": "responses",
         "output_cost_per_token": 1.5e-05,
         "source": "https://docs.perplexity.ai/docs/agent-api/models",
+        "supported_reasoning_efforts": [
+            "low",
+            "high",
+            "max"
+        ],
         "supports_web_search": true,
         "supports_reasoning": true,
         "supports_function_calling": true
@@ -38699,6 +38714,11 @@
         "mode": "chat",
         "output_cost_per_token": 1.5e-05,
         "source": "https://docs.together.ai/docs/serverless-models",
+        "supported_reasoning_efforts": [
+            "low",
+            "high",
+            "max"
+        ],
         "supports_function_calling": true,
         "supports_parallel_function_calling": true,
         "supports_reasoning": true,
@@ -51447,6 +51467,11 @@
         "mode": "chat",
         "output_cost_per_token": 1.5e-05,
         "source": "https://docs.fireworks.ai/serverless/pricing",
+        "supported_reasoning_efforts": [
+            "low",
+            "high",
+            "max"
+        ],
         "supports_function_calling": true,
         "supports_reasoning": true,
         "supports_response_schema": true,
@@ -51511,6 +51536,11 @@
         "mode": "chat",
         "output_cost_per_token": 1.5e-05,
         "source": "https://docs.fireworks.ai/serverless/pricing",
+        "supported_reasoning_efforts": [
+            "low",
+            "high",
+            "max"
+        ],
         "supports_function_calling": true,
         "supports_reasoning": true,
         "supports_response_schema": true,
@@ -51527,6 +51557,11 @@
         "mode": "chat",
         "output_cost_per_token": 2.25e-05,
         "source": "https://docs.fireworks.ai/serverless/pricing",
+        "supported_reasoning_efforts": [
+            "low",
+            "high",
+            "max"
+        ],
         "supports_function_calling": true,
         "supports_reasoning": true,
         "supports_response_schema": true,
@@ -51543,6 +51578,11 @@
         "mode": "chat",
         "output_cost_per_token": 1.65e-05,
         "source": "https://docs.fireworks.ai/serverless/pricing",
+        "supported_reasoning_efforts": [
+            "low",
+            "high",
+            "max"
+        ],
         "supports_function_calling": true,
         "supports_reasoning": true,
         "supports_response_schema": true,
@@ -51715,6 +51755,11 @@
         "mode": "chat",
         "output_cost_per_token": 2.25e-05,
         "source": "https://docs.fireworks.ai/serverless/pricing",
+        "supported_reasoning_efforts": [
+            "low",
+            "high",
+            "max"
+        ],
         "supports_function_calling": true,
         "supports_reasoning": true,
         "supports_response_schema": true,
@@ -51731,6 +51776,11 @@
         "mode": "chat",
         "output_cost_per_token": 1.65e-05,
         "source": "https://docs.fireworks.ai/serverless/pricing",
+        "supported_reasoning_efforts": [
+            "low",
+            "high",
+            "max"
+        ],
         "supports_function_calling": true,
         "supports_reasoning": true,
         "supports_response_schema": true,
